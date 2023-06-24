@@ -1,0 +1,9 @@
+.image::after{
+    content:'';
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(to right, #14141488 0% ,#46464600 100%);
+}
